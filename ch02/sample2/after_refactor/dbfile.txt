@@ -1,0 +1,3 @@
+hyuki@sample.com=Hiroshi Yuki
+sato@sample.com=Sato Hanako
+tomura@sample.com=Tomoura
