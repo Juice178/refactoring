@@ -1,0 +1,5 @@
+[address]
+hiroshi yuki = hyuki@example.com
+tomura = tomura@example.com
+hanako sato = hanako@example.com
+
